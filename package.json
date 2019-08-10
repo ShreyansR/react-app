@@ -2,7 +2,7 @@
   "name": "react-complete-guide",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://shreyansr.github.io/react-app/",
+  "homepage": "https://shreyansr.github.io/react-app/public/",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.8.6",
